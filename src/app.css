@@ -1,0 +1,10 @@
+p {
+  color: yellow;
+  height: 40px;
+}
+
+div {
+  color: pink;
+  width: 75px;
+  display: flex;
+}
